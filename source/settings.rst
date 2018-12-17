@@ -906,8 +906,8 @@ depending on whether or not they are distributed with that repository.
 
       .. setting:: Vertical ruler position
 
-        Position for ruler.
-        .. todo Any effect?
+        Position for ruler in TextEditor controls.
+        .. todo Should be moved to the TextEditor context menu
 
   .. settingspage:: SSH
 
